@@ -6,6 +6,6 @@ I fully transitioned into IT, where I combine technical skills (Spring, Kafka, P
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lewickiy&layout=compact&theme=dark)
+![Metrics](/metrics.svg)
 
 
