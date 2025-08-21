@@ -6,5 +6,4 @@ I fully transitioned into IT, where I combine technical skills (Spring, Kafka, P
 
 ## 📊 GitHub Stats
 
-
-
+![Metrics](/metrics.svg)
