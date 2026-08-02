@@ -1,0 +1,132 @@
+{
+  "contact": {
+    "ru": "Контакты",
+    "en": "Contact"
+  },
+  "experience": {
+    "ru": "Опыт работы",
+    "en": "Experience"
+  },
+  "tech_stack": {
+    "ru": "Стек технологий",
+    "en": "Tech Stack"
+  },
+  "profile": {
+    "ru": "Профиль",
+    "en": "Profile"
+  },
+  "name": {
+    "ru": "Анатолий Левицкий",
+    "en": "Anatoliy Levitsky"
+  },
+  "title": {
+    "ru": "Backend engineer",
+    "en": "Backend Engineer"
+  },
+  "profile_text": {
+    "ru": "Backend Engineer с опытом технического лидерства и архитектурных решений.\n\nСпециализируюсь на backend-разработке (Java, Spring, Kafka, PostgreSQL), совмещаю инженерное мышление с ответственностью за результат, команду и технические решения.",
+    "en": "Backend Engineer with experience in technical leadership and system design.\n\nI specialize in backend development (Java, Spring, Kafka, PostgreSQL), combining strong engineering skills with ownership, decision-making, and a product-oriented mindset."
+  },
+  "mentor_menu": {
+    "ru": "Ментор",
+    "en": "Mentor"
+  },
+  "snippet_menu": {
+    "ru": "Сниппеты",
+    "en": "Snippets"
+  },
+  "snippet_title": {
+    "ru": "Сниппеты",
+    "en": "Snippets"
+    },
+  "mentor_title": {
+    "ru": "Менторство и обучение",
+    "en": "Mentorship & Learning"
+  },
+  "mentor_intro": {
+    "ru": "Я помогаю разработчикам и командам развиваться в разработке на Java, микросервисах и архитектуре. Мои занятия построены так, чтобы вы уверенно получали необходимые знания и применяли их в реальных проектах.",
+    "en": "I help developers and teams grow in Java, microservices, and software architecture. My sessions are designed to build solid, practical knowledge that can be confidently applied to real-world projects."
+  },
+  "mentor_method_title": {
+    "ru": "Моя методика",
+    "en": "My Approach"
+  },
+  "mentor_method_text": {
+    "ru": "Я совмещаю теорию, практику и работу с реальными проектами. Каждое занятие — это не лекция, а совместная работа над задачами, где новые знания сразу применяются на практике.",
+    "en": "My approach combines theory, hands-on practice, and real projects. Each session is not a lecture, but focused collaboration on practical tasks where new concepts are applied immediately."
+  },
+  "mentor_process_title": {
+    "ru": "Как проходит обучение",
+    "en": "How the Learning Process Works"
+  },
+  "mentor_process_list": {
+    "ru": [
+      "Первичная оценка уровня и целей. Перед первым созвоном я попрошу прислать примеры вашего кода в архиве или ссылку на репозиторий, чтобы понять уровень и стиль",
+      "Знакомство и обсуждение целей и мотива. Мы обсуждаем ваш опыт, текущие задачи и желаемый результат обучения.",
+      "Привязка обучения к вашему опыту. Если вы меняете профессию, обучение строится вокруг проектов, близких к вашей прошлой сфере.",
+      "Работа над проектом. Мы начинаем с базовых задач или сразу работаем над пет-проектом, который вам действительно интересен."
+    ],
+    "en": [
+      "Initial assessment of your level and goals. Before the first call, I review your code (archive or repository) to understand your experience and coding style.",
+      "Introduction and goal alignment. We discuss your background, motivation, current challenges, and expected learning outcomes.",
+      "Learning tailored to your experience. If you are changing careers, the training is built around projects related to your previous domain.",
+      "Project-based work. We either start with foundational tasks or immediately work on a pet project that is genuinely relevant to you."
+    ]
+  },
+  "mentor_practice_title": {
+    "ru": "Практика и формат занятий",
+    "en": "Practice & Session Format"
+  },
+  "mentor_practice_list": {
+    "ru": [
+      "Работа по реальному производственному циклу: задача → оценка → код → pull request → code review → тестирование",
+      "Без горящих дедлайнов, но с полным соблюдением реального производственного процесса.",
+      "Изучение Java, Spring, архитектуры, Kafka и PostgreSQL параллельно с практикой.",
+      "Рекомендуемый минимум — 3 часа на занятие: повторение, новая тема и разбор альтернативных решений."
+    ],
+    "en": [
+      "Work through a real production development cycle: task → estimation → coding → pull request → code review → testing.",
+      "No artificial deadlines, but full alignment with real-world engineering processes.",
+      "Java, Spring, software architecture, Kafka, and PostgreSQL are studied alongside practical work.",
+      "The recommended session length is at least 3 hours: review of previous material, a new topic, and discussion of alternative solutions."
+    ]
+  },
+  "mentor_support_title": {
+    "ru": "Обратная связь и сопровождение",
+    "en": "Feedback & Ongoing Support"
+  },
+  "mentor_support_list": {
+    "ru": [
+      "Между занятиями можно задавать вопросы в чате.",
+      "Короткие вопросы разбираю бесплатно, без ожидания следующей сессии.",
+      "Более сложные вопросы и архитектурные решения обсуждаем на занятиях.",
+      "Ревью кода учебных проектов не тарифицируется отдельно."
+    ],
+    "en": [
+      "You can ask questions via chat between sessions.",
+      "Short and clarifying questions are answered free of charge, without waiting for the next session.",
+      "More complex topics and architectural decisions are discussed during sessions.",
+      "Code reviews for learning projects are not billed separately."
+    ]
+  },
+  "mentor_results_title": {
+    "ru": "Чему вы научитесь",
+    "en": "What You Will Learn"
+  },
+  "mentor_results_list": {
+    "ru": [
+      "Писать поддерживаемый и архитектурно выверенный, расширяемый код.",
+      "Проектировать приложения и микросервисы",
+      "Работать с базами данных и очередями сообщений.",
+      "Понимать полный цикл разработки — от задачи до ревью.",
+      "Работать с официальной документацией и мыслить системно."
+    ],
+    "en": [
+      "Write maintainable, scalable, and well-structured code.",
+      "Design applications and microservices.",
+      "Work confidently with databases and messaging systems.",
+      "Understand the full development lifecycle — from task definition to code review.",
+      "Use official documentation effectively and develop a systematic engineering mindset."
+    ]
+  }
+}
