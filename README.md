@@ -1,48 +1,114 @@
-### Hi there 👋
+# Building a Better Way to Understand Developers.
 
-Software engineer with experience in technical leadership.<br>
-After many years managing the technical aspects of cultural and creative projects,<br>
-I fully transitioned into IT, where I combine technical skills (Spring, Kafka, PostgreSQL) with managerial expertise.
+We're software engineers, independent builders, and the creators of [GitSocialSpace](https://gitsocial.space/).
 
-## Tech Stack
+We believe we're making a fundamental mistake in how we evaluate software developers.
 
-<details>
-<summary>Click to expand</summary>
+We have more tools than ever to measure people, generate scores, analyze resumes, and automate hiring decisions. Yet we still struggle to answer a simple question:
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+**What can this developer actually do?**
 
-### Databases & Cache
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-303030?style=for-the-badge&logo=postgis&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-3A70FF?style=for-the-badge&logo=minio&logoColor=white)
-![Flyway](https://img.shields.io/badge/Flyway-000000?style=for-the-badge&logo=flyway&logoColor=white)
+And more importantly, where is the evidence?
 
-### DevOps & CI/CD
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+---
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Swagger](https://img.shields.io/badge/SWAGGER-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+## What We're Building
 
-### IDE & Tools
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### [GitSocialSpace](https://gitsocial.space/)
 
-### Project Management / Collaboration
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![YouTrack](https://img.shields.io/badge/YouTrack-000000?style=for-the-badge&logo=youtrack&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-</details>
+**A different perspective on developer evaluation.**
+
+GitHub contains years of someone's professional journey: code, decisions, contributions, collaboration, problem-solving, and growth.
+
+But most of this information remains scattered across repositories, commits, and projects. Recruiters rarely have the time to investigate it properly. Developers rarely have a convenient way to present the full picture of their work.
+
+We started GitSocialSpace to bridge that gap.
+
+GSS analyzes a developer's GitHub activity and transforms technical evidence into a structured **Developer Passport** — a deeper, evidence-based representation of their professional work.
+
+[Explore GitSocialSpace](https://gitsocial.space/)
+
+[Get your Developer Passport — completely free](https://gitsocial.space/#guest-order)
+
+---
+
+## The Philosophy Behind GSS
+
+We don't believe AI should decide who deserves a job.
+
+We believe AI should help people see more.
+
+There is a fundamental difference between these two approaches.
+
+- **AI should analyze evidence, not assign human worth.**
+- **Developers should be understood through their actual work, not just their ability to write impressive resumes.**
+- **Recruiters should have access to meaningful technical context without spending hours manually exploring repositories.**
+- **Final decisions should remain human.**
+
+A developer is more than a score, a ranking, or a generated summary.
+
+And no algorithm should pretend otherwise.
+
+This is the principle behind GitSocialSpace.
+
+---
+
+## What We Believe
+
+- Code is more than a collection of files. It is evidence of decisions, experience, and engineering thinking.
+- A resume is a presentation. A public development history can provide supporting evidence.
+- AI is most valuable when it expands human understanding rather than replaces human judgment.
+- Technology should make opportunities fairer, not turn people into numbers.
+- Every developer deserves a chance to be understood beyond the first impression.
+
+---
+
+## Building Together
+
+GitSocialSpace is co-founded and developed by two engineers:
+
+- [Anatoliy Lewickiy](https://github.com/Lewickiy)
+- [Maxim Lewickiy](https://github.com/devlewicki)
+
+We share a common vision: creating technology that helps people better understand the real work, experience, and capabilities behind a developer's GitHub presence.
+
+Our work combines engineering, research, experimentation, and a willingness to challenge established approaches to developer evaluation.
+
+GitSocialSpace is the result of that shared vision and continuous collaboration.
+
+---
+
+## What Comes Next
+
+GitSocialSpace is an evolving project.
+
+We're working toward making Developer Passports significantly more informative, exploring deeper ways to understand engineering contributions and uncover meaningful signals hidden in development history.
+
+The goal isn't to create another developer ranking platform.
+
+**The goal is to make professional experience more visible, understandable, and verifiable — while keeping human judgment where it belongs.**
+
+---
+
+## Let's Connect
+
+We're always interested in conversations with:
+
+- Software engineers who care about their craft.
+- Recruiters who want to understand technical candidates better.
+- Engineering leaders interested in evidence-based evaluation.
+- Builders who believe technology should serve people.
+
+If this philosophy resonates with you, let's talk.
+
+[GitSocialSpace](https://gitsocial.space/)
+
+[X — Follow our journey](https://x.com/gitsocialspace)
+
+Open to discussions, feedback, collaboration, and ideas.
+
+---
+
+*We don't want to build an AI that tells people who is a good developer.*
+
+*We want to build technology that helps people recognize good developers themselves*
